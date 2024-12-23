@@ -15,7 +15,7 @@ namespace USQLCSharpProject1
         {
             return (V * t * k + V);
 
-
+        //комментарий
             
         }
     }
