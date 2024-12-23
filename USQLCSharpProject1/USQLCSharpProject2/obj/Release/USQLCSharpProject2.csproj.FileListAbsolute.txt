@@ -1,0 +1,12 @@
+C:\Users\matth\source\repos\USQLCSharpProject1\USQLCSharpProject2\bin\Release\USQLCSharpProject2.dll
+C:\Users\matth\source\repos\USQLCSharpProject1\USQLCSharpProject2\bin\Release\USQLCSharpProject2.pdb
+C:\Users\matth\source\repos\USQLCSharpProject1\USQLCSharpProject2\bin\Release\Microsoft.Analytics.Interfaces.dll
+C:\Users\matth\source\repos\USQLCSharpProject1\USQLCSharpProject2\bin\Release\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\matth\source\repos\USQLCSharpProject1\USQLCSharpProject2\bin\Release\Microsoft.Analytics.Types.dll
+C:\Users\matth\source\repos\USQLCSharpProject1\USQLCSharpProject2\bin\Release\TestRate.exe
+C:\Users\matth\source\repos\USQLCSharpProject1\USQLCSharpProject2\bin\Release\USQLCSharpProject1.dll
+C:\Users\matth\source\repos\USQLCSharpProject1\USQLCSharpProject2\obj\Release\USQLCSharpProject2.csproj.AssemblyReference.cache
+C:\Users\matth\source\repos\USQLCSharpProject1\USQLCSharpProject2\obj\Release\USQLCSharpProject2.csproj.CoreCompileInputs.cache
+C:\Users\matth\source\repos\USQLCSharpProject1\USQLCSharpProject2\obj\Release\USQLCSharpProject2.csproj.CopyComplete
+C:\Users\matth\source\repos\USQLCSharpProject1\USQLCSharpProject2\obj\Release\USQLCSharpProject2.dll
+C:\Users\matth\source\repos\USQLCSharpProject1\USQLCSharpProject2\obj\Release\USQLCSharpProject2.pdb

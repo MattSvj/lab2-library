@@ -1,0 +1,10 @@
+C:\Users\matth\source\repos\USQLCSharpProject1\USQLCSharpProject1\bin\Debug\USQLCSharpProject1.dll
+C:\Users\matth\source\repos\USQLCSharpProject1\USQLCSharpProject1\bin\Debug\USQLCSharpProject1.pdb
+C:\Users\matth\source\repos\USQLCSharpProject1\USQLCSharpProject1\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\matth\source\repos\USQLCSharpProject1\USQLCSharpProject1\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\matth\source\repos\USQLCSharpProject1\USQLCSharpProject1\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\matth\source\repos\USQLCSharpProject1\USQLCSharpProject1\obj\Debug\USQLCSharpProject1.csproj.AssemblyReference.cache
+C:\Users\matth\source\repos\USQLCSharpProject1\USQLCSharpProject1\obj\Debug\USQLCSharpProject1.csproj.CoreCompileInputs.cache
+C:\Users\matth\source\repos\USQLCSharpProject1\USQLCSharpProject1\obj\Debug\USQLCSharpProject1.csproj.CopyComplete
+C:\Users\matth\source\repos\USQLCSharpProject1\USQLCSharpProject1\obj\Debug\USQLCSharpProject1.dll
+C:\Users\matth\source\repos\USQLCSharpProject1\USQLCSharpProject1\obj\Debug\USQLCSharpProject1.pdb

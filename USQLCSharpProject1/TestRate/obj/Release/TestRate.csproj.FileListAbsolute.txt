@@ -1,0 +1,14 @@
+C:\Users\matth\source\repos\USQLCSharpProject1\TestRate\bin\Release\TestRate.exe.config
+C:\Users\matth\source\repos\USQLCSharpProject1\TestRate\bin\Release\TestRate.exe
+C:\Users\matth\source\repos\USQLCSharpProject1\TestRate\bin\Release\TestRate.pdb
+C:\Users\matth\source\repos\USQLCSharpProject1\TestRate\bin\Release\USQLCSharpProject1.dll
+C:\Users\matth\source\repos\USQLCSharpProject1\TestRate\bin\Release\USQLCSharpProject1.pdb
+C:\Users\matth\source\repos\USQLCSharpProject1\TestRate\obj\Release\TestRate.csproj.AssemblyReference.cache
+C:\Users\matth\source\repos\USQLCSharpProject1\TestRate\obj\Release\TestRate.csproj.SuggestedBindingRedirects.cache
+C:\Users\matth\source\repos\USQLCSharpProject1\TestRate\obj\Release\TestRate.Form1.resources
+C:\Users\matth\source\repos\USQLCSharpProject1\TestRate\obj\Release\TestRate.Properties.Resources.resources
+C:\Users\matth\source\repos\USQLCSharpProject1\TestRate\obj\Release\TestRate.csproj.GenerateResource.cache
+C:\Users\matth\source\repos\USQLCSharpProject1\TestRate\obj\Release\TestRate.csproj.CoreCompileInputs.cache
+C:\Users\matth\source\repos\USQLCSharpProject1\TestRate\obj\Release\TestRate.csproj.CopyComplete
+C:\Users\matth\source\repos\USQLCSharpProject1\TestRate\obj\Release\TestRate.exe
+C:\Users\matth\source\repos\USQLCSharpProject1\TestRate\obj\Release\TestRate.pdb
